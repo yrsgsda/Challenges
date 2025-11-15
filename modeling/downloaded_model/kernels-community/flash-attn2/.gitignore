@@ -1,0 +1,12 @@
+.bak
+__pycache__
+build-ext
+cmake
+result
+CMakeLists.txt
+setup.py
+pyproject.toml
+.venv
+torch-ext/registration.h
+torch-ext/flash_attn/*.so
+torch-ext/flash_attn/_ops.py
